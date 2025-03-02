@@ -1,2 +1,1 @@
-# ProgettoAlgoritmi
-Progetto relativo all'esame di Algoritmi e Strutture Dati
+Algorithms and Data Structures exam project.
